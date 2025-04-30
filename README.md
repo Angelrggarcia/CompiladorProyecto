@@ -2,7 +2,7 @@
 
 Proyecto que implementa un **compilador básico** (scanner y parser) para un lenguaje de programación personalizado, utilizando ANTLR4 en Java. Incluye manejo de variables, funciones, condicionales, ciclos y más.
 
-## 📋 Características del Lenguaje
+## Características del Lenguaje
 - Declaración de variables (`int`, `float`, `void`).
 - Funciones con parámetros y retorno.
 - Estructuras de control:

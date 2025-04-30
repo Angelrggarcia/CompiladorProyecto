@@ -1,0 +1,8 @@
+program ejemplo;
+var x, y : int;
+main
+  x = 5;
+  y = x + 3;
+  print("Resultado:", y);
+end
+end.
